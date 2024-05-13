@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Better.Commons.Runtime.Conditions
+namespace Better.Conditions.Runtime
 {
     [Serializable]
     public abstract class ApplicationCondition<TState> : StateCondition<TState>

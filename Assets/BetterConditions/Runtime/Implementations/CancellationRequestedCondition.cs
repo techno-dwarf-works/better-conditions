@@ -1,6 +1,6 @@
 ﻿using System.Threading;
 
-namespace Better.Commons.Runtime.Conditions
+namespace Better.Conditions.Runtime
 {
     public class CancellationRequestedCondition : SourceCondition<CancellationToken, bool>
     {

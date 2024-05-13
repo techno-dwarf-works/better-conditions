@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Better.Commons.Runtime.Conditions
+namespace Better.Conditions.Runtime
 {
     [Serializable]
     public class EnabledBehaviourCondition : ObjectCondition<Behaviour, bool>

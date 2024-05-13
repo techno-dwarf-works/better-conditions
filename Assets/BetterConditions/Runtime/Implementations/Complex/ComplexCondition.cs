@@ -5,7 +5,7 @@ using Better.Attributes.Runtime.Select;
 using Better.Commons.Runtime.Extensions;
 using UnityEngine;
 
-namespace Better.Commons.Runtime.Conditions
+namespace Better.Conditions.Runtime
 {
     [Serializable]
     public abstract class ComplexCondition : Condition
