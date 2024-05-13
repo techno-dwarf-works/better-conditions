@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Better.Commons.Runtime.Extensions;
 
-namespace Better.Commons.Runtime.Conditions
+namespace Better.Conditions.Runtime
 {
     [Serializable]
     public class AllComplexCondition : ComplexCondition

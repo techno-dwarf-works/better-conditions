@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Better.Commons.Runtime.Conditions;
+using Better.Conditions.Runtime;
 using Better.Commons.Runtime.Utility;
 
 namespace Better.Commons.Runtime.Extensions
