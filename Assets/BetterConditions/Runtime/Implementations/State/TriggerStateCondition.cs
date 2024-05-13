@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Better.Commons.Runtime.Conditions
+namespace Better.Conditions.Runtime
 {
     [Serializable]
     public class TriggerStateCondition<TState> : EqualityStateCondition<TState>

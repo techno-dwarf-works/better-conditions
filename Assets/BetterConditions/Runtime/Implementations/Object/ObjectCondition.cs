@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityObject = UnityEngine.Object;
 
-namespace Better.Commons.Runtime.Conditions
+namespace Better.Conditions.Runtime
 {
     [Serializable]
     public abstract class ObjectCondition<TSource, TState> : SourceCondition<TSource, TState>

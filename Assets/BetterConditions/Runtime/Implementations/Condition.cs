@@ -1,7 +1,7 @@
 ﻿using System;
 using Better.Commons.Runtime.Utility;
 
-namespace Better.Commons.Runtime.Conditions
+namespace Better.Conditions.Runtime
 {
     [Serializable]
     public abstract class Condition
