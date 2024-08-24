@@ -1,7 +1,17 @@
 {
   "dependencies": {
+    "com.tdw.better.attributes": {
+      "version": "0.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.tdw.better.commons": "0.0.41",
+        "com.tdw.better.internal.core": "0.0.2"
+      },
+      "url": "https://package.openupm.com"
+    },
     "com.tdw.better.commons": {
-      "version": "0.0.22",
+      "version": "0.0.44",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -150,16 +160,6 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
-    },
-    "com.uurha.betterattributes": {
-      "version": "3.1.5",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.tdw.better.commons": "0.0.16",
-        "com.tdw.better.internal.core": "0.0.2"
-      },
-      "url": "https://package.openupm.com"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
